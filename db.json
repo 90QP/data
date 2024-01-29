@@ -1,0 +1,98 @@
+{ "data": [
+  {
+    "id":1,
+    "name":"FEJKA 페이카",
+    "info":"인조식물, 실내외겸용/걸이형, 9 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-hanging__0945937_pe797831_s5.jpg",
+    "price":6900,
+    "category":"plants"
+  },
+  {
+    "id":2,
+    "name":"KRINGSYNT 크링쉰트",
+    "info":"미니양초실내외랜턴, 화이트, 21 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/kringsynt-lantern-for-tealight-in-outdoor-white__1079462_pe857539_s5.jpg",
+    "price":6900,
+    "category":"candle"
+  },
+  {
+    "id":3,
+    "name":"VINTERFINT 빈테르핀트",
+    "info":"미니양초홀더, 그린, 7 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-tealight-holder-green__1248809_ph194713_s5.jpg",
+    "price":4900,
+    "category":"candle"
+  },
+  {
+    "id":4,
+    "name":"FEJKA 페이카",
+    "info":"인조식물+화분 3종, 실내외겸용 옐로/핑크 퍼플, 6 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/fejka-artifi-potted-plant-w-pot-set-of-3-in-outdoor-yellow-pink-purple__1273341_pe930025_s5.jpg",
+    "price":5500,
+    "category":"plants"
+  },
+  {
+    "id":5,
+    "name":"VINTERFINT 빈테르핀트",
+    "info":"걸이식장식용품4종, 유리 크리스마스 모티프",
+    "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-hanging-decoration-set-of-4-glass-christmas-motifs__1248803_ph194705_s5.jpg",
+    "price":19900,
+    "category":"winter"
+  },
+  {
+    "id":6,
+    "name":"DVÄRGTALL 드베리탈",
+    "info":"인형장식 3종, 원목/블랙",
+    "img":"https://www.ikea.com/kr/ko/images/products/dvaergtall-decoration-figure-set-of-3-solid-wood-black__1168152_pe891789_s5.jpg",
+    "price":14900,
+    "category":"deco"
+  },
+  {
+    "id":7,
+    "name":"FRUKTSKOG 프룩트스코그",
+    "info":"세라믹병 향초, 베티버/제라늄/블랙 터쿼이즈, 50 시",
+    "img":"https://www.ikea.com/kr/ko/images/products/fruktskog-scented-candle-in-ceramic-jar-vetiver-geranium-black-turquoise__1238083_pe918289_s5.jpg",
+    "price":8500,
+    "category":"candle"
+  },
+  {
+    "id":8,
+    "name":"EFTERTÄNKA 에프테르텡카",
+    "info":"장식용 모래시계, 유리/샌드, 10 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/eftertaenka-decorative-hourglass-clear-glass-sand__1076247_ph183164_s5.jpg",
+    "price":6900,
+    "category":"deco"
+  },
+  {
+    "id":9,
+    "name":"SMYCKA 스뮈카",
+    "info":"조화부케, 다크핑크, 50 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-dark-pink__0903032_pe685245_s5.jpg",
+    "price":19900,
+    "category":"plants"
+  },
+  {
+    "id":10,
+    "name":"VINTERFINT 빈테르핀트",
+    "info":"트리 꼭대기 별, 골드, 25 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-top-star-gold-colour__1249181_ph194563_s5.jpg",
+    "price":9900,
+    "category":"winter"
+  },
+  {
+    "id":11,
+    "name":"SMYCKA 스뮈카",
+    "info":"조화부케, 실내외겸용/양귀비, 48 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-in-outdoor-poppy__1273383_pe930046_s5.jpg",
+    "price":12900,
+    "category":"plants"
+  },
+  {
+    "id":12,
+    "name":"VINTERFINT 빈테르핀트",
+    "info":"벽장식, 대나무/블랙",
+    "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-wall-decoration-bamboo-black__1249116_ph195178_s5.jpg",
+    "price":12900,
+    "category":"deco"
+  }
+  ] }
